@@ -353,15 +353,18 @@ i {
           width: 100%;
      }
 
-     .design-card-body {
-          
+     .design-card-body, .photog-card-body {
+          width: 100%;
      }
 
      .design-card-body h4, .photog-card-body h4 {
+          width: 80%;
+          margin: 30% auto 5%;
           font-size: 1.4rem;
      }
 
      .design-card-body p, .photog-card-body p {
+          width: 80%;
           font-size: 1rem;
      }
 
